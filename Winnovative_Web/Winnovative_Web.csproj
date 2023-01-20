@@ -122,6 +122,8 @@
     <Content Include="design\img\blog-3.jpg" />
     <Content Include="design\img\carousel-1.jpg" />
     <Content Include="design\img\carousel-2.jpg" />
+    <Content Include="design\img\clients\22.jpg" />
+    <Content Include="design\img\clients\32.jpg" />
     <Content Include="design\img\feature.jpg" />
     <Content Include="design\img\favicon.png" />
     <Content Include="design\img\team-1.jpg" />
@@ -174,6 +176,8 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="design\lib\owlcarousel\LICENSE" />
     <Content Include="design\lib\waypoints\links.php" />
+    <Content Include="happycustomers.aspx" />
+    <Content Include="whychooseus.aspx" />
     <None Include="Properties\PublishProfiles\winnovative.in - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -245,6 +249,13 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="happycustomers.aspx.cs">
+      <DependentUpon>happycustomers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="happycustomers.aspx.designer.cs">
+      <DependentUpon>happycustomers.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -273,6 +284,13 @@
     </Compile>
     <Compile Include="visionmission.aspx.designer.cs">
       <DependentUpon>visionmission.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="whychooseus.aspx.cs">
+      <DependentUpon>whychooseus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="whychooseus.aspx.designer.cs">
+      <DependentUpon>whychooseus.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -177,7 +177,13 @@
     <Content Include="design\lib\owlcarousel\LICENSE" />
     <Content Include="design\lib\waypoints\links.php" />
     <Content Include="happycustomers.aspx" />
+    <Content Include="landingpage.aspx" />
+    <Content Include="webforcorp.aspx" />
     <Content Include="webforind.aspx" />
+    <Content Include="webforsmes.aspx" />
+    <Content Include="webforstartups.aspx" />
+    <Content Include="webmaintenance.aspx" />
+    <Content Include="webredesign.aspx" />
     <Content Include="whychooseus.aspx" />
     <None Include="Properties\PublishProfiles\winnovative.in - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -257,6 +263,13 @@
     <Compile Include="happycustomers.aspx.designer.cs">
       <DependentUpon>happycustomers.aspx</DependentUpon>
     </Compile>
+    <Compile Include="landingpage.aspx.cs">
+      <DependentUpon>landingpage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="landingpage.aspx.designer.cs">
+      <DependentUpon>landingpage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -286,12 +299,47 @@
     <Compile Include="visionmission.aspx.designer.cs">
       <DependentUpon>visionmission.aspx</DependentUpon>
     </Compile>
+    <Compile Include="webforcorp.aspx.cs">
+      <DependentUpon>webforcorp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="webforcorp.aspx.designer.cs">
+      <DependentUpon>webforcorp.aspx</DependentUpon>
+    </Compile>
     <Compile Include="webforind.aspx.cs">
       <DependentUpon>webforind.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="webforind.aspx.designer.cs">
       <DependentUpon>webforind.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="webforsmes.aspx.cs">
+      <DependentUpon>webforsmes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="webforsmes.aspx.designer.cs">
+      <DependentUpon>webforsmes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="webforstartups.aspx.cs">
+      <DependentUpon>webforstartups.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="webforstartups.aspx.designer.cs">
+      <DependentUpon>webforstartups.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="webmaintenance.aspx.cs">
+      <DependentUpon>webmaintenance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="webmaintenance.aspx.designer.cs">
+      <DependentUpon>webmaintenance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="webredesign.aspx.cs">
+      <DependentUpon>webredesign.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="webredesign.aspx.designer.cs">
+      <DependentUpon>webredesign.aspx</DependentUpon>
     </Compile>
     <Compile Include="whychooseus.aspx.cs">
       <DependentUpon>whychooseus.aspx</DependentUpon>

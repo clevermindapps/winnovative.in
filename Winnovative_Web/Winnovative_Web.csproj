@@ -177,6 +177,7 @@
     <Content Include="design\lib\owlcarousel\LICENSE" />
     <Content Include="design\lib\waypoints\links.php" />
     <Content Include="happycustomers.aspx" />
+    <Content Include="webforind.aspx" />
     <Content Include="whychooseus.aspx" />
     <None Include="Properties\PublishProfiles\winnovative.in - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -284,6 +285,13 @@
     </Compile>
     <Compile Include="visionmission.aspx.designer.cs">
       <DependentUpon>visionmission.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="webforind.aspx.cs">
+      <DependentUpon>webforind.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="webforind.aspx.designer.cs">
+      <DependentUpon>webforind.aspx</DependentUpon>
     </Compile>
     <Compile Include="whychooseus.aspx.cs">
       <DependentUpon>whychooseus.aspx</DependentUpon>

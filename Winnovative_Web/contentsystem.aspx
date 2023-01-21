@@ -1,12 +1,12 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="webmaintenance.aspx.cs" Inherits="Winnovative_Web.webmaintenance" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="contentsystem.aspx.cs" Inherits="Winnovative_Web.contentsystem" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
      <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
         <div class="row py-5">
             <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                <h1 class="display-4 text-white animated zoomIn">Website Maintenance</h1>
+                <h1 class="display-4 text-white animated zoomIn">Content Management System</h1>
                 <a href="default.aspx" class="h5 text-white">Home</a>
                 <i class="far fa-circle text-white px-2"></i>
-                <a href="webmaintenance.aspx" class="h5 text-white">Website Maintenance</a>
+                <a href="contentsystem.aspx" class="h5 text-white">Content Management System</a>
             </div>
         </div>
     </div>
@@ -36,12 +36,12 @@
             <div class="row g-5">
                 <div class="col-lg-7">
                     <div class="section-title position-relative pb-3 mb-5">
-                        <h5 class="fw-bold text-primary text-uppercase">Website Maintenance</h5>
+                        <h5 class="fw-bold text-primary text-uppercase">Content Management System</h5>
                       
                     </div>
-                    <p class="mb-4" align="justify">It is easy to get the best website, but it is challenging to keep it up to the mark. Yes, maintenance is an important thing that you must not forget. Assign the responsibility to winnovative, the leading Website Maintenance Company in Hyderabad. We will take care of your website needs so that you can concentrate on your core responsibility; running your business. Our support service is offered at affordable rates. Don’t pay high amounts to third-party companies for urgent requirements or performance improvement. We do website maintenance at low cost and keep it in the pink of the health..</p>
-                    <h3>We bring Comprehensive, Flexible Maintenance Plans<h3>
-                    <p class="mb-4" align="justify">A seasoned Web Design Company in Hyderabad has the capability of taking your website to the next level by adding state-of-the-art features. This type of website brings a greater level of control over site management. At winnovative, we want to make your website the most important component of your marketing strategy. We make the hub of everything that you do online. Our aim is to make a user-friendly, responsive website with innovative design concepts so that it helps you in generating more interactions.</p>
+                    <p class="mb-4" align="justify">A CMS or Content Management System is a web application or program that makes it possible for you to create, edit, and publish the website. It is the best tool for those who are not technically proficient but still want to update content on their website without being dependent on third-party support. As winnovative, we are engaged in a highly customer-oriented content management system that makes the things pretty simple for you. Being the leading CMS Website Development Company in Hyderabad, we are committed to provide the best-in-class services. Content Management System developed by us is from scratch, and to help the non-technical users to handle the work. We bring an interface which is extremely simple and user-friendly.</p>
+                    <h4>WordPress Development</h4>
+                    <p class="mb-4" align="justify">It is an open-source CMS popular for over a decade. From blogs to Ecommerce sites or brochures; you can create anything using WordPress.</p>
                   
   
                 </div>

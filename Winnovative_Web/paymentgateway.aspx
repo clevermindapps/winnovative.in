@@ -1,12 +1,12 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="webmaintenance.aspx.cs" Inherits="Winnovative_Web.webmaintenance" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="paymentgateway.aspx.cs" Inherits="Winnovative_Web.paymentgateway" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
      <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
         <div class="row py-5">
             <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                <h1 class="display-4 text-white animated zoomIn">Website Maintenance</h1>
+                <h1 class="display-4 text-white animated zoomIn">Payment gateway Integration</h1>
                 <a href="default.aspx" class="h5 text-white">Home</a>
                 <i class="far fa-circle text-white px-2"></i>
-                <a href="webmaintenance.aspx" class="h5 text-white">Website Maintenance</a>
+                <a href="paymentgateway.aspx" class="h5 text-white">Payment gateway Integration</a>
             </div>
         </div>
     </div>
@@ -36,12 +36,12 @@
             <div class="row g-5">
                 <div class="col-lg-7">
                     <div class="section-title position-relative pb-3 mb-5">
-                        <h5 class="fw-bold text-primary text-uppercase">Website Maintenance</h5>
+                        <h5 class="fw-bold text-primary text-uppercase">Website for Individual</h5>
                       
                     </div>
-                    <p class="mb-4" align="justify">It is easy to get the best website, but it is challenging to keep it up to the mark. Yes, maintenance is an important thing that you must not forget. Assign the responsibility to winnovative, the leading Website Maintenance Company in Hyderabad. We will take care of your website needs so that you can concentrate on your core responsibility; running your business. Our support service is offered at affordable rates. Don’t pay high amounts to third-party companies for urgent requirements or performance improvement. We do website maintenance at low cost and keep it in the pink of the health..</p>
-                    <h3>We bring Comprehensive, Flexible Maintenance Plans<h3>
-                    <p class="mb-4" align="justify">A seasoned Web Design Company in Hyderabad has the capability of taking your website to the next level by adding state-of-the-art features. This type of website brings a greater level of control over site management. At winnovative, we want to make your website the most important component of your marketing strategy. We make the hub of everything that you do online. Our aim is to make a user-friendly, responsive website with innovative design concepts so that it helps you in generating more interactions.</p>
+                    <p class="mb-4" align="justify">By integrating a payment gateway, you can offer a decent way of accepting payments online. The integration process and setting up of merchant account are not complex when winnovative handles them. We are a leading Website Development Company in Hyderabad that makes the process of charging for your services and products simple. We allow your customers to pay online using checks or credit cards so that they have a pleasant experience. You get perfection of work because we are a seasoned player in the niche. Our web development team is certified with all popular payment gateways as well as merchant accounts.Our prices are affordable and unique. What do you need more in the payment gateway integration.</p>
+                    <h3>What is Payment Gateway, and Why do you need it?</h3>
+                    <p class="mb-4" align="justify">In simple words, a payment gateway is similar to a supermarket where your credit card is swiped. Here, the payment processing is done by providing card credentials to the third-party payment processing partner. When we develop websites for you, we also integrate it with payment gateways without charging exorbitantly. winnovative is a leading Web Development Company in Hyderabad that has command over different development platforms.</p>
                   
   
                 </div>

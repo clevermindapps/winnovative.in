@@ -1,12 +1,12 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="webmaintenance.aspx.cs" Inherits="Winnovative_Web.webmaintenance" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="ecommerce.aspx.cs" Inherits="Winnovative_Web.ecommerce" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
      <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
         <div class="row py-5">
             <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                <h1 class="display-4 text-white animated zoomIn">Website Maintenance</h1>
+                <h1 class="display-4 text-white animated zoomIn">Ecommerce Website</h1>
                 <a href="default.aspx" class="h5 text-white">Home</a>
                 <i class="far fa-circle text-white px-2"></i>
-                <a href="webmaintenance.aspx" class="h5 text-white">Website Maintenance</a>
+                <a href="ecommerce.aspx" class="h5 text-white">Ecommerce Website</a>
             </div>
         </div>
     </div>
@@ -36,12 +36,13 @@
             <div class="row g-5">
                 <div class="col-lg-7">
                     <div class="section-title position-relative pb-3 mb-5">
-                        <h5 class="fw-bold text-primary text-uppercase">Website Maintenance</h5>
+                        <h5 class="fw-bold text-primary text-uppercase">Ecommerce Website</h5>
                       
                     </div>
-                    <p class="mb-4" align="justify">It is easy to get the best website, but it is challenging to keep it up to the mark. Yes, maintenance is an important thing that you must not forget. Assign the responsibility to winnovative, the leading Website Maintenance Company in Hyderabad. We will take care of your website needs so that you can concentrate on your core responsibility; running your business. Our support service is offered at affordable rates. Don’t pay high amounts to third-party companies for urgent requirements or performance improvement. We do website maintenance at low cost and keep it in the pink of the health..</p>
-                    <h3>We bring Comprehensive, Flexible Maintenance Plans<h3>
-                    <p class="mb-4" align="justify">A seasoned Web Design Company in Hyderabad has the capability of taking your website to the next level by adding state-of-the-art features. This type of website brings a greater level of control over site management. At winnovative, we want to make your website the most important component of your marketing strategy. We make the hub of everything that you do online. Our aim is to make a user-friendly, responsive website with innovative design concepts so that it helps you in generating more interactions.</p>
+                    <p class="mb-4" align="justify">Ecommerce has revolutionized the process of shopping in recent years. With the popularity of handheld devices, purchasing services and goods online becomes furthermore easy. Buyers, sellers, and customers remain connected round-the-clock regardless of their geographical presence. 
+winnovative carries a rich experience in the niche. We are a leading Ecommerce Website Development Company in Hyderabad. Our solutions with the best software and web development plans fulfill the unique requirements of our clients. With a team of expert consultants, project managers, and developers, we make sure that you get a successful development process.</p>
+                    <h3>What makes Channelsoftech different?</h3>
+                    <p class="mb-4" align="justify">Custom Ecommerce development services of winnovative ensure that you get a website developed with a profound business strategy. We make use of cutting-edge technology for developing an Ecommerce solution that delivers an effective business strategy. We are the only  Website Development Company in Hyderabad that has a comprehensive understanding of design and usability, marketing strategy, products, and technology.</p>
                   
   
                 </div>

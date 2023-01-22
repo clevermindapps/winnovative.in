@@ -106,8 +106,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="careers.aspx" />
     <Content Include="companyprofile.aspx" />
     <Content Include="contactus.aspx" />
+    <Content Include="contentservices.aspx" />
     <Content Include="contentsystem.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -164,7 +166,10 @@
     <Content Include="design\lib\waypoints\waypoints.min.js" />
     <Content Include="design\lib\wow\wow.js" />
     <Content Include="design\lib\wow\wow.min.js" />
+    <Content Include="digitization.aspx" />
+    <Content Include="documentms.aspx" />
     <Content Include="ecommerce.aspx" />
+    <Content Include="email.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -180,6 +185,9 @@
     <Content Include="design\lib\waypoints\links.php" />
     <Content Include="landingpage.aspx" />
     <Content Include="paymentgateway.aspx" />
+    <Content Include="seo.aspx" />
+    <Content Include="sme.aspx" />
+    <Content Include="socialmedia.aspx" />
     <Content Include="webforcorp.aspx" />
     <Content Include="webforind.aspx" />
     <Content Include="webforsmes.aspx" />
@@ -234,6 +242,13 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="careers.aspx.cs">
+      <DependentUpon>careers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="careers.aspx.designer.cs">
+      <DependentUpon>careers.aspx</DependentUpon>
+    </Compile>
     <Compile Include="companyprofile.aspx.cs">
       <DependentUpon>companyprofile.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -247,6 +262,13 @@
     </Compile>
     <Compile Include="contactus.aspx.designer.cs">
       <DependentUpon>contactus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contentservices.aspx.cs">
+      <DependentUpon>contentservices.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="contentservices.aspx.designer.cs">
+      <DependentUpon>contentservices.aspx</DependentUpon>
     </Compile>
     <Compile Include="contentsystem.aspx.cs">
       <DependentUpon>contentsystem.aspx</DependentUpon>
@@ -262,12 +284,33 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="digitization.aspx.cs">
+      <DependentUpon>digitization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="digitization.aspx.designer.cs">
+      <DependentUpon>digitization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="documentms.aspx.cs">
+      <DependentUpon>documentms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="documentms.aspx.designer.cs">
+      <DependentUpon>documentms.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ecommerce.aspx.cs">
       <DependentUpon>ecommerce.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ecommerce.aspx.designer.cs">
       <DependentUpon>ecommerce.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="email.aspx.cs">
+      <DependentUpon>email.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="email.aspx.designer.cs">
+      <DependentUpon>email.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -287,6 +330,13 @@
       <DependentUpon>paymentgateway.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="seo.aspx.cs">
+      <DependentUpon>seo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="seo.aspx.designer.cs">
+      <DependentUpon>seo.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -300,6 +350,20 @@
     </Compile>
     <Compile Include="Site.Mobile.Master.designer.cs">
       <DependentUpon>Site.Mobile.Master</DependentUpon>
+    </Compile>
+    <Compile Include="sme.aspx.cs">
+      <DependentUpon>sme.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sme.aspx.designer.cs">
+      <DependentUpon>sme.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="socialmedia.aspx.cs">
+      <DependentUpon>socialmedia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="socialmedia.aspx.designer.cs">
+      <DependentUpon>socialmedia.aspx</DependentUpon>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>

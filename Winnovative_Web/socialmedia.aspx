@@ -1,12 +1,12 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="webforind.aspx.cs" Inherits="Winnovative_Web.webforind" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="socialmedia.aspx.cs" Inherits="Winnovative_Web.socialmedia" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
      <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
         <div class="row py-5">
             <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                <h1 class="display-4 text-white animated zoomIn">Website for Individual</h1>
+                <h1 class="display-4 text-white animated zoomIn">Social Media Marketing</h1>
                 <a href="default.aspx" class="h5 text-white">Home</a>
                 <i class="far fa-circle text-white px-2"></i>
-                <a href="webforstartups.aspx" class="h5 text-white">Website for Individual</a>
+                <a href="socialmedia.aspx" class="h5 text-white">Social Media Marketing</a>
             </div>
         </div>
     </div>
@@ -36,11 +36,12 @@
             <div class="row g-5">
                 <div class="col-lg-7">
                     <div class="section-title position-relative pb-3 mb-5">
-                        <h5 class="fw-bold text-primary text-uppercase">Website for Individual</h5>
+                        <h5 class="fw-bold text-primary text-uppercase">Social Media Marketing</h5>
                       
                     </div>
-                    <p class="mb-4" align="justify">It is said that the website is a window through which you say hello to the world. Especially if for an individual entrepreneur, it is all the more useful. However, many interlocking factors make a website incredible. When the task is assigned to a proficient Web Design Company in Hyderabad, the things become simple. winnovative creates a perfect online presence to meet the business needs of yours. We partner with the client to know the unique business context. It helps in creating a custom website that can turn the “secret sauce” into a superb competitive edge. We have a team of proficient designers that has a command over adaptable and sustainable web development platforms and methodologies.</p>
-                    <p class="mb-4" align="justify">A seasoned Web Design Company in Hyderabad has the capability of taking your website to the next level by adding state-of-the-art features. This type of website brings a greater level of control over site management. At winnovative, we want to make your website the most important component of your marketing strategy. We make the hub of everything that you do online. Our aim is to make a user-friendly, responsive website with innovative design concepts so that it helps you in generating more interactions.</p>
+                    <p class="mb-4" align="justify">Running the business is your prime responsibility. Don’t let Social Media Marketing and managing steal your valuable time. winnovative is a Social Media Marketing Agency with social media consultants who can manage and run social media for you. Thus, you can concentrate on what is more important for your business. We begin with having a complete social media audit of your account. It gives us an idea of what is required to accomplish results. We understand your business and determine the objectives that you want to achieve. Our social media marketing begins with a detailed social media audit of your account.  Then, a detailed plan is worked out to accomplish results. We put in efforts to know your business and establish targets that you have in your mind by using social media marketing. Based on this analysis, we derive the right social media strategy.</p>
+                    <h3>We build the perfect Social Media Marketing Strategy</h3>
+                    <p class="mb-4" align="justify">Competing business pressures and demands prevent you from managing social media well. We are there to accomplish this daunting task on your behalf. With a well-managed and well-planned Social Media Marketing campaign, we help you to connect to customers across multiple platforms. We build brand recognition and create a rich customer relationship. What does it result? It brings more sales leads and more business. What makes us special? We think out of the box and help you in translating social media marketing into business growth.</p>
                   
   
                 </div>
@@ -54,5 +55,4 @@
         </div>
     </div>
     <!-- About End -->
-
 </asp:Content>

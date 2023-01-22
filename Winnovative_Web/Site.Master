@@ -117,14 +117,7 @@
                                 <a href="contentservices.aspx" class="dropdown-item">Content Management Services</a>
                             </div>
                         </div>
-                        <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Careers</a>
-                            <div class="dropdown-menu m-0">
-                                <a href="jobs.aspx" class="dropdown-item">Jobs</a>
-                                <a href="internships.aspx" class="dropdown-item">Internships</a>
-                                <a href="trainings.aspx" class="dropdown-item">Trainings</a>
-                            </div>
-                        </div>
+                        <a href="careers.aspx" class="nav-item nav-link">Careers</a>
                         <a href="contactus.aspx" class="nav-item nav-link">Contact Us</a>
                     </div>
                 </div>

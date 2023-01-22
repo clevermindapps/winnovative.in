@@ -107,7 +107,7 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="companyprofile.aspx" />
-    <Content Include="Contact.aspx" />
+    <Content Include="contactus.aspx" />
     <Content Include="contentsystem.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -241,12 +241,12 @@
     <Compile Include="companyprofile.aspx.designer.cs">
       <DependentUpon>companyprofile.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Contact.aspx.cs">
-      <DependentUpon>Contact.aspx</DependentUpon>
+    <Compile Include="contactus.aspx.cs">
+      <DependentUpon>contactus.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Contact.aspx.designer.cs">
-      <DependentUpon>Contact.aspx</DependentUpon>
+    <Compile Include="contactus.aspx.designer.cs">
+      <DependentUpon>contactus.aspx</DependentUpon>
     </Compile>
     <Compile Include="contentsystem.aspx.cs">
       <DependentUpon>contentsystem.aspx</DependentUpon>

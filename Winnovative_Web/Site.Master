@@ -78,7 +78,6 @@
                                 <a href="companyprofile.aspx" class="dropdown-item">Company Profile</a>
                                 <a href="visionmission.aspx" class="dropdown-item">Vision & Mission</a>
                                 <a href="whychooseus.aspx" class="dropdown-item">Why Choose Us</a>
-                                <a href="happycustomers.aspx" class="dropdown-item">Our Happy Customers</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown">
@@ -106,12 +105,8 @@
                             <div class="dropdown-menu m-0">
                                 <a href="seo.aspx" class="dropdown-item">Search Engine Optimization</a>
                                 <a href="sme.aspx" class="dropdown-item">Search Engine Marketing</a>
-                                <a href="payperclick.aspx" class="dropdown-item">Pay Per Click Advertising</a>
                                 <a href="socialmedia.aspx" class="dropdown-item">Social Media Marketing</a>
-                                <a href="onlinereputation.aspx" class="dropdown-item">Online Reputation Management</a>
-                                <a href="content.aspx" class="dropdown-item">Content Writing &amp; Marketing</a>
                                 <a href="email.aspx" class="dropdown-item">Email Marketing</a>
-                                <a href="sms.aspx" class="dropdown-item">SMS Marketing</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown">

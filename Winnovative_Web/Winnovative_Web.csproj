@@ -178,7 +178,6 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="design\lib\owlcarousel\LICENSE" />
     <Content Include="design\lib\waypoints\links.php" />
-    <Content Include="happycustomers.aspx" />
     <Content Include="landingpage.aspx" />
     <Content Include="paymentgateway.aspx" />
     <Content Include="webforcorp.aspx" />
@@ -272,13 +271,6 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
-    <Compile Include="happycustomers.aspx.cs">
-      <DependentUpon>happycustomers.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="happycustomers.aspx.designer.cs">
-      <DependentUpon>happycustomers.aspx</DependentUpon>
     </Compile>
     <Compile Include="landingpage.aspx.cs">
       <DependentUpon>landingpage.aspx</DependentUpon>

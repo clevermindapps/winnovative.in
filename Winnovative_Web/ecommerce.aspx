@@ -39,10 +39,10 @@
                         <h5 class="fw-bold text-primary text-uppercase">Ecommerce Website</h5>
                       
                     </div>
-                    <p class="mb-4" align="justify">Ecommerce has revolutionized the process of shopping in recent years. With the popularity of handheld devices, purchasing services and goods online becomes furthermore easy. Buyers, sellers, and customers remain connected round-the-clock regardless of their geographical presence. 
+                    <p align="justify">Ecommerce has revolutionized the process of shopping in recent years. With the popularity of handheld devices, purchasing services and goods online becomes furthermore easy. Buyers, sellers, and customers remain connected round-the-clock regardless of their geographical presence. 
 winnovative carries a rich experience in the niche. We are a leading Ecommerce Website Development Company in Hyderabad. Our solutions with the best software and web development plans fulfill the unique requirements of our clients. With a team of expert consultants, project managers, and developers, we make sure that you get a successful development process.</p>
-                    <h3>What makes Channelsoftech different?</h3>
-                    <p class="mb-4" align="justify">Custom Ecommerce development services of winnovative ensure that you get a website developed with a profound business strategy. We make use of cutting-edge technology for developing an Ecommerce solution that delivers an effective business strategy. We are the only  Website Development Company in Hyderabad that has a comprehensive understanding of design and usability, marketing strategy, products, and technology.</p>
+                    <h3>What makes Winnovative different?</h3>
+                    <p align="justify">Custom Ecommerce development services of winnovative ensure that you get a website developed with a profound business strategy. We make use of cutting-edge technology for developing an Ecommerce solution that delivers an effective business strategy. We are the only  Website Development Company in Hyderabad that has a comprehensive understanding of design and usability, marketing strategy, products, and technology.</p>
                   
   
                 </div>

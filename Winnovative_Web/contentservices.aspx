@@ -39,8 +39,9 @@
                         <h5 class="fw-bold text-primary text-uppercase">Content Management Services</h5>
                       
                     </div>
-                    <p class="mb-4" align="justify">.</p>
-                    <p class="mb-4" align="justify"></p>
+                    <h1>Content Management Services</h1>
+                    <p class="mb-4" align="justify">As the world is increasingly moving towards digital media, more people are relying on online data for information. winnovative specializes in creating, managing, formatting both structured and unstructured information on online platforms. We offer a host of content management services to enterprises and publishing houses including.</p>
+              
                   
   
                 </div>
@@ -53,5 +54,19 @@
             </div>
         </div>
     </div>
+
     <!-- About End -->
+         <div>
+             <h3 class="light">
+				Abstracting, Indexing &amp; Cataloguing Services			</h3>
+                     <p class="mb-4" align="justify">We have domain experts in various subject areas who can recreate abstracts and index article as per client requirements. We also have 50 dedicated freelancers to create abstracts and carry out manual indexing. We have been supplying recreated abstracts and indexed articles from scholarly journals in the area of Biochemistry, Biotechnology, and Chemical Engineering for more than a decade to Elsevier and DECHEMA.	</p>
+             <h3 class="light">
+				Directory Compilation Services			</h3>
+			<p>
+				Informatics assists directory publishers to validate, update, and publish directories online. We build and deliver a comprehensive platform for the content extracted from their raw databases. The team adopts reliable methodologies to compile the content to maintain the directory’s standards.			</p>
+             <h3 class="light">
+				Metadata Creation			</h3>
+			<p>
+				Informatics helps extract bibliographic metadata from academic, research, and industry journals. The metadata is delivered in XML format as per schema specified by the publisher. This would enable the publishers to index their journal articles with various indexing agencies.			</p>
+         </div>
 </asp:Content>

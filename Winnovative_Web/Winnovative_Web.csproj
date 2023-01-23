@@ -166,6 +166,13 @@
     <Content Include="design\lib\waypoints\waypoints.min.js" />
     <Content Include="design\lib\wow\wow.js" />
     <Content Include="design\lib\wow\wow.min.js" />
+    <Content Include="design\newimg\Corporate.jpg" />
+    <Content Include="design\newimg\Design.jpg" />
+    <Content Include="design\newimg\Individual.jpg" />
+    <Content Include="design\newimg\Maintenance.jpg" />
+    <Content Include="design\newimg\redesign.jpg" />
+    <Content Include="design\newimg\sems.png" />
+    <Content Include="design\newimg\Startups.jpg" />
     <Content Include="digitization.aspx" />
     <Content Include="documentms.aspx" />
     <Content Include="ecommerce.aspx" />

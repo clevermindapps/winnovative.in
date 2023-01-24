@@ -41,7 +41,7 @@
                     </div>
                     <p class="mb-4" align="justify">Website design is problem solving and storytelling. When you stop receiving inquiries, it is time to attract new customers. Assigning the work of web designing to a Web Design Company in Hyderabad is the task of establishing the problem and giving problem using designing skills to fix it. At winnovative, we make business websites for corporates so that we can represent the business. We project our client as a professional, organized company who is serious about the quality of service. It is nothing better than having a superior online presence over your competition. Being a professionally managed company, we design a website that is crucial for the success and longevity of the business in today’s competitive world.</p>
                     <h3>We build user-centric websites</h3>
-                    <p class="mb-4" align="justify">Expertly designed website is part and parcel with your brand. Being a big Website Design Company in Bangalore we use colors palettes, icons, and fonts to tell a story to the visitor and establish the brand..</p>
+                    <p class="mb-4" align="justify">Expertly designed website is part and parcel with your brand. Being a big Website Design Company in Hyderabad we use colors palettes, icons, and fonts to tell a story to the visitor and establish the brand..</p>
                   
   
                 </div>

@@ -104,7 +104,6 @@
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Website Promotions</a>
                             <div class="dropdown-menu m-0">
                                 <a href="seo.aspx" class="dropdown-item">Search Engine Optimization</a>
-                                <a href="sme.aspx" class="dropdown-item">Search Engine Marketing</a>
                                 <a href="socialmedia.aspx" class="dropdown-item">Social Media Marketing</a>
                                 <a href="email.aspx" class="dropdown-item">Email Marketing</a>
                             </div>
@@ -137,11 +136,7 @@
                             <a href="default.aspx" class="navbar-brand">
                                 <h1 class="m-0 text-white">Winnovative</h1>
                             </a>
-                            <p class="mt-3 mb-4">Lorem diam sit erat dolor elitr et, diam lorem justo amet clita stet eos sit. Elitr dolor duo lorem, elitr clita ipsum sea. Diam amet erat lorem stet eos. Diam amet et kasd eos duo.</p>
-                            <br />
-                            <br />
-                            <br />
-                            <br />
+                            <p class="mt-3 mb-4" align="justify">Winnovative Technologies is a renowned, established and reputed IT Company engaged in the niche of website design, website development, mobile application, website promotion, graphic design and web hosting. We follow flexible business practices that help our clients in operating efficiently and generating more business.</p>
                             <br />
                             <br />
                         </div>
@@ -172,12 +167,12 @@
                                     <h3 class="text-light mb-0">Quick Links</h3>
                                 </div>
                                 <div class="link-animated d-flex flex-column justify-content-start">
-                                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
-                                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
-                                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
-                                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Latest Blog</a>
-                                    <a class="text-light" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
-                                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                                    <a class="text-light mb-2" href="companyprofile.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Company Profile</a>
+                                    <a class="text-light mb-2" href="visionmission.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Vision & Mission</a>
+                                    <a class="text-light mb-2" href="whychooseus.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Why Choose Us</a>
+                                    <a class="text-light mb-2" href="email.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Email Marketing</a>
+                                    <a class="text-light mb-2" href="seo.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Search Engine Optimization</a>
+                                    <a class="text-light mb-2" href="contactus.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
@@ -185,12 +180,12 @@
                                     <h3 class="text-light mb-0">Popular Links</h3>
                                 </div>
                                 <div class="link-animated d-flex flex-column justify-content-start">
-                                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
-                                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
-                                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
-                                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
-                                    <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Latest Blog</a>
-                                    <a class="text-light" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
+                                    <a class="text-light mb-2" href="webforind.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Website for Individual</a>
+                                    <a class="text-light mb-2" href="webforstartups.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Website for Startups</a>
+                                    <a class="text-light mb-2" href="webforsmes.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Website for SMEs</a>
+                                    <a class="text-light mb-2" href="webmaintenance.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Website Maintenance</a>
+                                    <a class="text-light mb-2" href="ecommerce.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>E-Commerce Websites</a>
+                                    <a class="text-light" href="paymentgateway.aspx"><i class="bi bi-arrow-right text-primary me-2"></i>Payment Gateway Integration</a>
                                 </div>
                             </div>
                         </div>

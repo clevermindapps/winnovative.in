@@ -1,13 +1,12 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="contactus.aspx.cs" Inherits="Winnovative_Web.contactus" %>
-
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="quote.aspx.cs" Inherits="Winnovative_Web.quote" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
         <div class="row py-5">
             <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                <h1 class="display-4 text-white animated zoomIn">Contact Us</h1>
+                <h1 class="display-4 text-white animated zoomIn">Get Quote</h1>
                 <a href="default.aspx" class="h5 text-white">Home</a>
                 <i class="far fa-circle text-white px-2"></i>
-                <a href="contactus.aspx" class="h5 text-white">Contact Us</a>
+                <a href="quote.aspx" class="h5 text-white">Get Quote</a>
             </div>
         </div>
     </div>
@@ -34,8 +33,8 @@
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-                <h5 class="fw-bold text-primary text-uppercase">Contact Us</h5>
-                <h1 class="mb-0">If You Have Any Query, Feel Free To Contact Us</h1>
+                <h5 class="fw-bold text-primary text-uppercase">Get Quote</h5>
+                <h1 class="mb-0">If You Have Any Requirement, Feel Free To Contact Us for Quote</h1>
             </div>
             <div class="row g-5 mb-5">
                 <div class="col-lg-3">
@@ -73,7 +72,7 @@
                 </div>
             </div>
             <div class="row g-5">
-                <div class="col-lg-6 wow slideInUp" data-wow-delay="0.3s">
+                <div class="col-lg-12 wow slideInUp" data-wow-delay="0.3s">
                     <div class="form">
                         <div class="row g-3">
                             <div class="col-md-6">
@@ -101,12 +100,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6 wow slideInUp" data-wow-delay="0.6s">
-                    <iframe class="position-relative rounded w-100 h-100"
-                        src="https://maps.google.com/maps?width=600&amp;height=350&amp;hl=en&amp;q=HAL Colony, Gujularamram&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
-                        frameborder="0" style="min-height: 350px; border: 0;" allowfullscreen="" aria-hidden="false"
-                        tabindex="0"></iframe>
                 </div>
             </div>
         </div>

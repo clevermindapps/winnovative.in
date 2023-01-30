@@ -45,7 +45,7 @@
                     <div class="careers_box">
                         <h4><i class="fa fa-caret-right blue4"></i>Web Designer</h4>
                         <p>
-                            <strong>Skill Sets:</strong> HTML, CSS, Web Technologies, JavaScript, Photoshop<br>
+                            <strong>Skill Sets:</strong> HTML, CSS, JavaScript, Photoshop<br>
                             <strong>Role:</strong> Web Designer<br>
                             <strong>Qualification:</strong> Any Degree<br>
                             <strong>Experience:</strong> 0 - 2 years<br>
@@ -54,10 +54,10 @@
                     <div class="careers_box">
                         <h4><i class="fa fa-caret-right blue4"></i>Web Developer</h4>
                         <p>
-                            <strong>Skill Sets:</strong> HTML, CSS, JavaScript, PHP, jQuery<br>
+                            <strong>Skill Sets:</strong> HTML, CSS, JavaScript, jQuery, ASP.Net, C#<br>
                             <strong>Role:</strong> Web Developer<br>
                             <strong>Qualification:</strong> Any Degree<br>
-                            <strong>Experience:</strong> 0 - 2 years<br>
+                            <strong>Experience:</strong> 2 - 4 years<br>
                         </p>
                     </div>
 
@@ -75,7 +75,7 @@
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="design/newimg/Careers.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="design/newimg/careers.jpg" style="object-fit: cover;">
                     </div>
                 </div>
 

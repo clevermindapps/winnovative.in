@@ -42,7 +42,7 @@
 
                     </div>
                     <h4>Document Management System (DMS)</h4>
-                    <p class="mb-4" align="justify">winnovative presents DMS, a one-of-a-kind hosted archiving solution where organizations can preserve intellectual work. It is a robust and cloud-based platform, guaranteeing 99.99% uptime. All data stored on the DMS are interoperable. It is an investment-free solution to build a knowledge repository.</p>
+                    <p class="mb-4" align="justify">Winnovative presents DMS, a one-of-a-kind hosted archiving solution where organizations can preserve intellectual work. It is a robust and cloud-based platform, guaranteeing 99.99% uptime. All data stored on the DMS are interoperable. It is an investment-free solution to build a knowledge repository.</p>
                     <h4>DMS can store:</h4>
                     <h5>Documents				</h5>
                     <p>
@@ -70,12 +70,7 @@
                         <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="design/newimg/DocumentManagementSystem.jpg" style="object-fit: cover;">
                     </div>
                 </div>
-
-            </div>
-        </div>
-    </div>
-    <div class="vc_col-sm-12 wpb_column vc_column_container ">
-        <div class="wpb_wrapper">
+                <div class="wpb_wrapper">
             <div class=" stcode_title8">
                 <h2><span class="line"></span><span class="text">Key Features</span></h2>
             </div>
@@ -172,6 +167,7 @@
                 </div>
             </div>
         </div>
+            </div>
+        </div>
     </div>
-    <!-- About End -->
 </asp:Content>

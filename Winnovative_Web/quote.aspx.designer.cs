@@ -11,7 +11,7 @@ namespace Winnovative_Web
 {
 
 
-    public partial class contactus
+    public partial class quote
     {
 
         /// <summary>

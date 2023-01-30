@@ -166,22 +166,28 @@
     <Content Include="design\lib\waypoints\waypoints.min.js" />
     <Content Include="design\lib\wow\wow.js" />
     <Content Include="design\lib\wow\wow.min.js" />
-    <Content Include="design\newimg\Careers.jpg" />
+    <Content Include="design\newimg\abstracting.png" />
+    <Content Include="design\newimg\careers.jpg" />
     <Content Include="design\newimg\ContentManagementServices.jpg" />
     <Content Include="design\newimg\Corporate.jpg" />
     <Content Include="design\newimg\Design.jpg" />
     <Content Include="design\newimg\Digitization.jpg" />
     <Content Include="design\newimg\DocumentManagementSystem.jpg" />
+    <Content Include="design\newimg\ecom.png" />
     <Content Include="design\newimg\Ecommerce Website.jpg" />
     <Content Include="design\newimg\EmailMarketing.jpg" />
     <Content Include="design\newimg\Individual.jpg" />
     <Content Include="design\newimg\Integration.jpg" />
+    <Content Include="design\newimg\landingpage.png" />
     <Content Include="design\newimg\Maintenance.jpg" />
+    <Content Include="design\newimg\payment.png" />
     <Content Include="design\newimg\redesign.jpg" />
+    <Content Include="design\newimg\redesign.png" />
     <Content Include="design\newimg\SearchEngineMarketing.jpg" />
     <Content Include="design\newimg\SearchEngineOptimization.jpg" />
     <Content Include="design\newimg\sems.png" />
     <Content Include="design\newimg\SocialMediaMarketing.jpg" />
+    <Content Include="design\newimg\startup.png" />
     <Content Include="design\newimg\Startups.jpg" />
     <Content Include="design\newimg\System.jpg" />
     <Content Include="digitization.aspx" />
@@ -203,8 +209,8 @@
     <Content Include="design\lib\waypoints\links.php" />
     <Content Include="landingpage.aspx" />
     <Content Include="paymentgateway.aspx" />
+    <Content Include="quote.aspx" />
     <Content Include="seo.aspx" />
-    <Content Include="sme.aspx" />
     <Content Include="socialmedia.aspx" />
     <Content Include="webforcorp.aspx" />
     <Content Include="webforind.aspx" />
@@ -348,6 +354,13 @@
       <DependentUpon>paymentgateway.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quote.aspx.cs">
+      <DependentUpon>quote.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="quote.aspx.designer.cs">
+      <DependentUpon>quote.aspx</DependentUpon>
+    </Compile>
     <Compile Include="seo.aspx.cs">
       <DependentUpon>seo.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -368,13 +381,6 @@
     </Compile>
     <Compile Include="Site.Mobile.Master.designer.cs">
       <DependentUpon>Site.Mobile.Master</DependentUpon>
-    </Compile>
-    <Compile Include="sme.aspx.cs">
-      <DependentUpon>sme.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="sme.aspx.designer.cs">
-      <DependentUpon>sme.aspx</DependentUpon>
     </Compile>
     <Compile Include="socialmedia.aspx.cs">
       <DependentUpon>socialmedia.aspx</DependentUpon>

@@ -39,7 +39,7 @@
                     <div class="section-title position-relative pb-3 mb-5">
                         <h5 class="fw-bold text-primary text-uppercase">Vision &amp; Mission</h5>
                     </div>
-                    <p class="mb-4" align="justify">Helping the client in achieving business growth by providing value-driven support is our motto. Our mission and vision come from our passion for promoting the culture of constant innovation. 
+                    <p class="mb-4" align="justify">Helping the client in achieving business growth by providing value-driven support is our motto. Our vision and mission come from our passion for promoting the culture of constant innovation. 
 We build quality and integrity, and we add value to the client by providing excellent services.</p>
                     <h5>Vision</h5>
                     <p align="justify">Enabling clients in leveraging technology for business growth and success.</p>

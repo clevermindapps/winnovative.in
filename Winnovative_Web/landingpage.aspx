@@ -39,16 +39,16 @@
                         <h5 class="fw-bold text-primary text-uppercase">Landing Page Design</h5>
                       
                     </div>
-                    <p class="mb-4" align="justify">Your landing page must contain quality and design features that will attract and convert users successfully. When you hire a top-rated Website Design Company in Hyderabad like winnovative to design the landing page, it contains all the essential features that contribute to the successful conversion.
+                    <p class="mb-4" align="justify">Your landing page must contain quality and design features that will attract and convert users successfully. When you hire a top-rated Website Design Company in Hyderabad like Winnovative to design the landing page, it contains all the essential features that contribute to the successful conversion.
 You put considerable money in web designing, and hence, it is the best thing to squeeze every bit of ROI from the traffic coming to the website. Get useful standalone landing pages that lead the customers in taking the best-desired action on the website. To put it simply, you afford to spend more on marketing activities when the landing page converts more prospective customers into paying customers than the competition. Stealing more market share is the outcome of hiring us for landing page design.</p>
                     <h3>Why should your customers land to the right page?</h3>
-                    <p class="mb-4" align="justify">You may hire the number-one Dynamic Website Design Company in Hyderabad; it is of no use if the customers are redirected to a useless lead page. The landing page should make it easy for the customer to reach his goals, and yours as well. At winnovative, we ensure that every penny spent by you on SEO, PPC, or Facebook Advertising gives you return on investment.</p>
+                    <p class="mb-4" align="justify">You may hire the number-one Dynamic Website Design Company in Hyderabad; it is of no use if the customers are redirected to a useless lead page. The landing page should make it easy for the customer to reach his goals, and yours as well. At Winnovative, we ensure that every penny spent by you on SEO, PPC, or Facebook Advertising gives you return on investment.</p><br /><br /><br /><br /><br /><br />
                   
   
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="design/newimg/Design.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="design/newimg/landingpage.png" style="object-fit: cover;">
                     </div>
                 </div>
                

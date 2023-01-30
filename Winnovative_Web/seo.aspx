@@ -41,7 +41,7 @@
                     </div>
                     <p class="mb-4" align="justify">Search Engine Optimization or SEO is an integral element of the digital world. Without SEO, you can’t expect your website to appear on the first page of search engines. Statistics prove that you get better results, higher traffic, and increased revenues when each of the webpages in your website is SEO embedded page. Call us and get the best SEO Services in Hyderabad. At winnovative, we assure incredible results. With a team of dedicated SEO experts, extraordinary SEO performance is worth expecting. Not just a prominent web presence, but it brings leads to create the brand of the global market. We are one of the leading SEO Service Providers in Hyderabad, offering best-in-class SEO services. With our technical precedence, we promise to take your website to the top of Google ranking. Our SEO experts have a thorough command over Google algorithms to build a profound strategy to take the ranking higher.</p>
                     <h3 style="margin-bottom: 1em;">How do we take you to the first page?</h3>
-                    <h4>1. Research and Selection of keywords</h4>
+                    <h4>Research and Selection of keywords</h4>
                     <p class="mb-4" align="justify">Proper keyword research is the secret to achieve higher search engine ranking. We research by observing market requirements closely. We use state-of-the-art tools and perform keyword competition analysis to narrow down at the best keywords for your website. We optimize your site according to these keywords.</p>
                   
   

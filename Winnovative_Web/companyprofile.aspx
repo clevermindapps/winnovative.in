@@ -38,9 +38,9 @@
                 <div class="col-lg-7">
                     <div class="section-title position-relative pb-3 mb-5">
                         <h5 class="fw-bold text-primary text-uppercase">Company Profile</h5>
-                        <h1 class="mb-0">The Best IT Solution With 7 Years of Experience</h1>
+                        <h3 class="mb-0">The Best IT Solution With 7 Years of Experience</h3>
                     </div>
-                    <p class="mb-4" align="justify">Winnovative Technologies is a renowned, established and reputed IT Company engaged in the niche of website design, website development, website promotion, graphic design and domain, and web hosting. We follow flexible business practices that help our clients in operating efficiently and generating more business.</p>
+                    <p class="mb-4" align="justify">Winnovative Technologies is a renowned, established and reputed IT Company engaged in the niche of website design, website development, website promotion, graphic design and web hosting. We follow flexible business practices that help our clients in operating efficiently and generating more business.</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Award Winning</h5>

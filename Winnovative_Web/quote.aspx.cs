@@ -14,13 +14,13 @@ using Microsoft.Ajax.Utilities;
 
 namespace Winnovative_Web
 {
-    public partial class contactus : System.Web.UI.Page
+    public partial class quote : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
         }
-        //[Obsolete]
+
         protected void Button1_Click(object sender, EventArgs e)
         {
             try
@@ -31,9 +31,9 @@ namespace Winnovative_Web
                 // Recipient e-mail address.
                 Msg.To.Add(TextBox2.Text);
                 Msg.CC.Add("contact@winnovative.in");
-                Msg.Subject = "Contact Form Submitted: " + DateTime.Now + " : "+ TextBox3.Text;
+                Msg.Subject = "Quotation Request Submitted: " + DateTime.Now + " : " + TextBox3.Text;
                 Msg.Body = "<b>Sender Name: </b>" + TextBox1.Text + "<br /><b>Sender E-Mail: </b>" + TextBox2.Text + "<br /><b>Subject: </b>" + TextBox3.Text + "<br /><b>Message: </b>" + TextBox4.Text;
-                Msg.IsBodyHtml= true;
+                Msg.IsBodyHtml = true;
                 // your remote SMTP server IP.
                 SmtpClient smtp = new SmtpClient();
                 smtp.Host = "relay-hosting.secureserver.net";

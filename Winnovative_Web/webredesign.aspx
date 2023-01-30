@@ -41,13 +41,13 @@
                     </div>
                     <p class="mb-4" align="justify">The phrase is correct for everything in the world, and your website too is not an exception to it. A website built five or ten years before would have lost its charm and usability. It is perhaps not been optimized to rank higher in the search engine ranking. What will you do? You need to give it to some Dynamic Website Design Company in Hyderabad to re-design. It will not just change the look and feel but completely revamp it. Your website will be optimized to appear in the top rows of search engine result. In turn, the website will bring more business and more profitability.</p>
                     <h3>We are a professional Web Design and SEO Company</h3>
-                    <p class="mb-4" align="justify">At winnovative, we ensure that you are delighted with the results. We not only design an incredible website from scratch but revamp and redesign it as well. We give the website a complete makeover. After understanding your objectives and business goals, we recommend a design solution that is contemporary and fits the business needs of yours. Is your website loading slow and hampering business? We rejuvenate it by changing the platform and modifying design parameters. Go through the recommendations and remarks of our satisfied clients whom we have redesigned the websites for.</p>
+                    <p class="mb-4" align="justify">At winnovative, we ensure that you are delighted with the results. We not only design an incredible website from scratch but revamp and redesign it as well. We give the website a complete makeover. After understanding your objectives and business goals, we recommend a design solution that is contemporary and fits the business needs of yours. Is your website loading slow and hampering business? We rejuvenate it by changing the platform and modifying design parameters. Go through the recommendations and remarks of our satisfied clients whom we have redesigned the websites for.</p><br /><br /><br /><br /><br /><br />
                   
   
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="design/newimg/redesign.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="design/newimg/redesign.png" style="object-fit: cover;">
                     </div>
                 </div>
                

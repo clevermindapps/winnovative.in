@@ -41,13 +41,13 @@
                     </div>
                     <p class="mb-4" align="justify">By integrating a payment gateway, you can offer a decent way of accepting payments online. The integration process and setting up of merchant account are not complex when winnovative handles them. We are a leading Website Development Company in Hyderabad that makes the process of charging for your services and products simple. We allow your customers to pay online using checks or credit cards so that they have a pleasant experience. You get perfection of work because we are a seasoned player in the niche. Our web development team is certified with all popular payment gateways as well as merchant accounts.Our prices are affordable and unique. What do you need more in the payment gateway integration.</p>
                     <h3>What is Payment Gateway, and Why do you need it?</h3>
-                    <p class="mb-4" align="justify">In simple words, a payment gateway is similar to a supermarket where your credit card is swiped. Here, the payment processing is done by providing card credentials to the third-party payment processing partner. When we develop websites for you, we also integrate it with payment gateways without charging exorbitantly. winnovative is a leading Web Development Company in Hyderabad that has command over different development platforms.</p>
+                    <p class="mb-4" align="justify">In simple words, a payment gateway is similar to a supermarket where your credit card is swiped. Here, the payment processing is done by providing card credentials to the third-party payment processing partner. When we develop websites for you, we also integrate it with payment gateways without charging exorbitantly. winnovative is a leading Web Development Company in Hyderabad that has command over different development platforms.</p><br /><br /><br /><br /><br /><br />
                   
   
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="design/newimg/Integration.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="design/newimg/payment.png" style="object-fit: cover;">
                     </div>
                 </div>
                

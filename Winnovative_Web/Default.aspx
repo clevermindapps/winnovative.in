@@ -8,7 +8,7 @@
                     <img class="w-100" src="design/img/carousel-1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h3 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h3>
+                            <h3 class="text-white text-uppercase mb-3 animated slideInDown">Creative and Innovative</h3>
                             <h2 class="display-1 text-white mb-md-4 animated zoomIn">Websites to Empower Your Business</h2>
                             <a href="quote.aspx" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Get Quote</a>
                             <a href="contactus.aspx" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
